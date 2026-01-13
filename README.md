@@ -1,2 +1,23 @@
-# cinema-front
-Frontend web application for browsing and purchasing movie tickets for current theater releases in Colombia. It allows users to view detailed movie information, search and filter available titles, and interact with a user-friendly interface designed to integrate seamlessly with the backend services and cinema partners.
+# Cinema Colombia Frontend
+
+Este es el proyecto frontend para la plataforma de compra de entradas de cine.
+
+## Tecnologías
+- **React 18**
+- **Vite**
+- **TypeScript**
+- **Lucide Icons**
+- **Vanilla CSS** (Custom Design System)
+
+## Instalación
+```bash
+npm install
+```
+
+## Ejecución
+```bash
+npm run dev
+```
+
+## Documentación Detallada
+Consulta el archivo [documento.md](./documento.md) para ver la arquitectura, el MER y el detalle de la solución técnica.
